@@ -1,3 +1,6 @@
+'''
+#Comentario
+'''
 class Animal(object):
     def __init__(self, patas, edad):
         self.patas=patas
