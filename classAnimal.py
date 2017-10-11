@@ -1,5 +1,5 @@
 '''
-#Comentario
+#Comentario Clase Anima
 '''
 class Animal(object):
     def __init__(self, patas, edad):
